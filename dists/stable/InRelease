@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: PhoenixHam OS
+Label: PhoenixHam OS
+Suite: stable
+Codename: stable
+Date: Tue, 10 Nov 2026 12:14:02 GMT
+Architectures: amd64 all
+Components: main
+Description: Actualizaciones de PhoenixHam OS
+MD5Sum:
+ 66fafc7bd538d0f6cda897d94a6e85c3        721 main/binary-all/Packages
+ 2d776a5ac44edaddfb4c228560e6a7dd        498 main/binary-all/Packages.gz
+ 66fafc7bd538d0f6cda897d94a6e85c3        721 main/binary-amd64/Packages
+ 2d776a5ac44edaddfb4c228560e6a7dd        498 main/binary-amd64/Packages.gz
+SHA1:
+ 3009cba1de3b82e30ef415eb66188b105f0602f8        721 main/binary-all/Packages
+ 64a54963889e721af62bce914cfd863b10360427        498 main/binary-all/Packages.gz
+ 3009cba1de3b82e30ef415eb66188b105f0602f8        721 main/binary-amd64/Packages
+ 64a54963889e721af62bce914cfd863b10360427        498 main/binary-amd64/Packages.gz
+SHA256:
+ 1ef17ee9e2ea988eba9c6315636b5b2ac257a7668c2e06146bf506352328f8b8        721 main/binary-all/Packages
+ 1f3fa8230ea673e4ca050e68df6615660a605385b35207c30a6c31aaadec455f        498 main/binary-all/Packages.gz
+ 1ef17ee9e2ea988eba9c6315636b5b2ac257a7668c2e06146bf506352328f8b8        721 main/binary-amd64/Packages
+ 1f3fa8230ea673e4ca050e68df6615660a605385b35207c30a6c31aaadec455f        498 main/binary-amd64/Packages.gz
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEtuZL60YhBHuGZzL9V13TunImeD4FAmrzCooACgkQV13TunIm
+eD5NRQ//ckk7F2Trk59GQpWg9JcmRQMbGDYSrKvTwBojOnn25E7Td4TcFV4HTqLy
+8zujEaHOZT/kghCtZ5M3sbWIIp0HCZhtIwVUn1CZ+0HOlyu1WbU/agn6W+rmVJPs
+fmeP9quEk3EvoBbt77+UN8bTomguUFb9GOXUZ0inzt2QwzVrep7AMSjUexV7vQPR
+1LxN1OYW8DZrflMKOo3iVvELoPDuon8QBzEnojCiF7prLn6hlvg7s7uac12BoBp0
+vYcYfwPYKqQOK4AQdsx9rB4UIULa/LT1/XzhDW5m0GkZ/mYqM6ebXt7Jj5o3KTti
+Lbyk9p7rFSCPssARy0megquhYkFzOB3w059bV4K33+OGueF/d7vjWbeqZhHZRAp/
+/lNxm02hFa+tVUeYrJO9HeVdgfT8GOEgMOq+ndqCxWYQHd++9ueDHWXeZXq7Mcv2
+NIff5g5vooSfYHfcQqc3/3iLLKNIyfc46P3Taixr6/3Kz3lwMw7Sr9mj7MMXgjmp
+BlTTFrlC/mDoGH7MXtNMIVGWyUvuVITxAN5LCJJrRFb1Un/BEbhIln/uWGfuMqde
+pLFXd7KAeCzpvh59Fpa/j4I15YYO+MO5kJfgSWScsnrJLugrxkQspmd4AjYte7Mo
+W/PvAGTtMm9bu7rwj1CF68UFe6rAf7tyD2IF65hwI5ZLoJg7OZk=
+=tVuL
+-----END PGP SIGNATURE-----

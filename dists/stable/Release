@@ -1,0 +1,23 @@
+Origin: PhoenixHam OS
+Label: PhoenixHam OS
+Suite: stable
+Codename: stable
+Date: Tue, 10 Nov 2026 12:14:02 GMT
+Architectures: amd64 all
+Components: main
+Description: Actualizaciones de PhoenixHam OS
+MD5Sum:
+ 66fafc7bd538d0f6cda897d94a6e85c3        721 main/binary-all/Packages
+ 2d776a5ac44edaddfb4c228560e6a7dd        498 main/binary-all/Packages.gz
+ 66fafc7bd538d0f6cda897d94a6e85c3        721 main/binary-amd64/Packages
+ 2d776a5ac44edaddfb4c228560e6a7dd        498 main/binary-amd64/Packages.gz
+SHA1:
+ 3009cba1de3b82e30ef415eb66188b105f0602f8        721 main/binary-all/Packages
+ 64a54963889e721af62bce914cfd863b10360427        498 main/binary-all/Packages.gz
+ 3009cba1de3b82e30ef415eb66188b105f0602f8        721 main/binary-amd64/Packages
+ 64a54963889e721af62bce914cfd863b10360427        498 main/binary-amd64/Packages.gz
+SHA256:
+ 1ef17ee9e2ea988eba9c6315636b5b2ac257a7668c2e06146bf506352328f8b8        721 main/binary-all/Packages
+ 1f3fa8230ea673e4ca050e68df6615660a605385b35207c30a6c31aaadec455f        498 main/binary-all/Packages.gz
+ 1ef17ee9e2ea988eba9c6315636b5b2ac257a7668c2e06146bf506352328f8b8        721 main/binary-amd64/Packages
+ 1f3fa8230ea673e4ca050e68df6615660a605385b35207c30a6c31aaadec455f        498 main/binary-amd64/Packages.gz
