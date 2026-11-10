@@ -5,39 +5,39 @@ Origin: PhoenixHam OS
 Label: PhoenixHam OS
 Suite: stable
 Codename: stable
-Date: Tue, 10 Nov 2026 12:23:31 GMT
+Date: Tue, 10 Nov 2026 12:27:27 GMT
 Architectures: amd64 all
 Components: main
 Description: Actualizaciones de PhoenixHam OS
 MD5Sum:
- 03d4cd0abc4d2c0154c38381db850dc4       1443 main/binary-all/Packages
- 177f3dba53eea90e373a596df2b6e35f        621 main/binary-all/Packages.gz
- 03d4cd0abc4d2c0154c38381db850dc4       1443 main/binary-amd64/Packages
- 177f3dba53eea90e373a596df2b6e35f        621 main/binary-amd64/Packages.gz
+ f9577e3c9c87ac2f59c43b5a2f7b0295       2165 main/binary-all/Packages
+ 468215a9654b78388127050d8867ee4f        729 main/binary-all/Packages.gz
+ f9577e3c9c87ac2f59c43b5a2f7b0295       2165 main/binary-amd64/Packages
+ 468215a9654b78388127050d8867ee4f        729 main/binary-amd64/Packages.gz
 SHA1:
- a5d6187ec6d7ec88162f46702f5eb885046f119b       1443 main/binary-all/Packages
- 01205061f6b6329a5006addf11967adab33a6940        621 main/binary-all/Packages.gz
- a5d6187ec6d7ec88162f46702f5eb885046f119b       1443 main/binary-amd64/Packages
- 01205061f6b6329a5006addf11967adab33a6940        621 main/binary-amd64/Packages.gz
+ 64dc7498bf040a8eb8066ddc9f09737eb8cb20f0       2165 main/binary-all/Packages
+ 9b86f79597962926f165e23431f9f90526f773f0        729 main/binary-all/Packages.gz
+ 64dc7498bf040a8eb8066ddc9f09737eb8cb20f0       2165 main/binary-amd64/Packages
+ 9b86f79597962926f165e23431f9f90526f773f0        729 main/binary-amd64/Packages.gz
 SHA256:
- 16420a7e0ac150e68e92cc5e563a53decc769f1545a26ed554c6a1a8680945ee       1443 main/binary-all/Packages
- 2cbe39ccce9891be4b5198123b916adc3e2aacd4c8829825693bf1a03b83955d        621 main/binary-all/Packages.gz
- 16420a7e0ac150e68e92cc5e563a53decc769f1545a26ed554c6a1a8680945ee       1443 main/binary-amd64/Packages
- 2cbe39ccce9891be4b5198123b916adc3e2aacd4c8829825693bf1a03b83955d        621 main/binary-amd64/Packages.gz
+ 59fd15413813079c583595f5851e6002bd04199dbfc3172c2c5c0701bca1355e       2165 main/binary-all/Packages
+ 58a91f693c710544a634ee010fc4f870094437a7b8cd270b774226703d428278        729 main/binary-all/Packages.gz
+ 59fd15413813079c583595f5851e6002bd04199dbfc3172c2c5c0701bca1355e       2165 main/binary-amd64/Packages
+ 58a91f693c710544a634ee010fc4f870094437a7b8cd270b774226703d428278        729 main/binary-amd64/Packages.gz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEtuZL60YhBHuGZzL9V13TunImeD4FAmrzDMMACgkQV13TunIm
-eD4a2RAAgzoVb05Nt4Oz/DA9/hiJtRNJvLG53ePU3RCRHUWQ1cQuFMZipLB3JzNc
-HrHVpQfZsEQOYqjgXBhI7mPp8IR/iV+DkWmpp9DLnpiwtJZYyWY1GR3V/YTccWmU
-UgA73K/jKLd9aDPGkNVJPCc/Ro+Yh2Ln4xVu0CGmpbSvRozxGiH54XvCbsaTYG+I
-S6VMUKm9Wii8w2dt1H+l5BAqJ06bKS96ZfLKlbAv0hWseG9He7hEqFV/l1cr4jjR
-zxoRujZ5xds8N6IpKy/SQ4DNZp62Ro7HR1c5NffQ0rB/EptMrQT9Yj06Sb95fK6i
-EJ+NOqwkMfB5I2NbdA08h2net5u8244+h9bjsPmLnFX5L+EExPxH0m0PJiHmeOEm
-E7qOCFZDd8OpG2g7p9OhSYqOGFOYetijFTEs8DDdKVQoFtgEWnx+Dia/083oYH0N
-93T5mBlNVU073icATwayNili+q74n3Ab/hjKPuJ+QTmbqc1CvhjnBkDNMfIJ8KDy
-a0f8LzBzuFRPR8yYifizF6ZmNFDba+RHxVPSseXEnvQ6nT8ui+YzYlj4BZRiOvF7
-3SY3MrIHSgnqBa5jVDnCr3Lktqt3y465i+R+vsUQYf1aPF7MlF6qGDgSXfsUx19q
-UgLHGKhxyXEzld83iDdiHdbkMwTh4vbj5hTjkh61KK6wILRMyVI=
-=SHk9
+iQIzBAEBCgAdFiEEtuZL60YhBHuGZzL9V13TunImeD4FAmrzDa8ACgkQV13TunIm
+eD5d9g//bXwYOiYX+4JGQbGiIovQA0oXChiAFCJ2+Zj+pN8AwFH8plw05q9XTs1A
+T7luSrdslATGO1hEN4oAiZViEhboxTJQpNjJ396TeErCmzT6vAIw6dcZKWCKlTWJ
+7uWrVgD4lIjM1otmYI0CqwU0ocmxuaSU71M7TpsAC9a/x2qJSwqFD+RDhicSOxRI
+zjCQs7YZ2gWtjoxaSY1bbikQOVldHNIUFUe2MCLlLXixh9oxQLDFj9HkiE8hQfUt
+oybJlxS28KXqp37M1Dd7bNlP3E/+rPHnyW0X8YLE6KP5l+4ufjOSm8OhWyb7eVAj
+bvnxto1/lQjCYvGMSwF7jqe+K0BWO3ctsmqy5k83+8TiUX7Uv4plnvh3FbmLXHgP
+syvPDCmCF/7460BeAy0v/20Dqo/YA/UGI9lfa1sQxoyIzb6x7FqpptHCTubwNnmh
+m5X95p0+eLY1m00x8wgzaGbkAhPwwFbkoRL5f4lvZfmBcU0y8J38iuHiPRggPrwD
+0bUIDAT3lI+VkMIjwrHERce9cgNPjkz1U71LZRyofi6KW9Y+4g0vefbxIP/UNFzl
+jfWnEfnLRWq8NFSSYPcdqWYk3VkW5XVn59cpKLD0BO6FGwt0w8ARL7h/4w7Sh4v3
+TLHKLIF7xg9933KmG28tPBVM9x8Zj9U2jawkPQ44HvxtOCQgZqc=
+=/ViZ
 -----END PGP SIGNATURE-----
