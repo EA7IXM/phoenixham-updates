@@ -2,22 +2,22 @@ Origin: PhoenixHam OS
 Label: PhoenixHam OS
 Suite: stable
 Codename: stable
-Date: Tue, 10 Nov 2026 16:13:39 GMT
+Date: Tue, 10 Nov 2026 16:22:44 GMT
 Architectures: amd64 all
 Components: main
 Description: Actualizaciones de PhoenixHam OS
 MD5Sum:
- ab16248cae7068c90afd9c0f468a195b       2165 main/binary-all/Packages
- 1b3f30fab27151830a3a07439ab9f79c        743 main/binary-all/Packages.gz
- ab16248cae7068c90afd9c0f468a195b       2165 main/binary-amd64/Packages
- 1b3f30fab27151830a3a07439ab9f79c        743 main/binary-amd64/Packages.gz
+ 92cdb7599176cf5e6e6178b1932e0601       2165 main/binary-all/Packages
+ 879e43e2a20a24aad1e3ef43aa4a6a1b        735 main/binary-all/Packages.gz
+ 92cdb7599176cf5e6e6178b1932e0601       2165 main/binary-amd64/Packages
+ 879e43e2a20a24aad1e3ef43aa4a6a1b        735 main/binary-amd64/Packages.gz
 SHA1:
- c5202d4d969858cd938cac236e50e7705e81d994       2165 main/binary-all/Packages
- 9ccef19e3c03bfcd239aee7255b5426463b1dcca        743 main/binary-all/Packages.gz
- c5202d4d969858cd938cac236e50e7705e81d994       2165 main/binary-amd64/Packages
- 9ccef19e3c03bfcd239aee7255b5426463b1dcca        743 main/binary-amd64/Packages.gz
+ 460bef805b307d40c3de028b017d915ca254d772       2165 main/binary-all/Packages
+ dc44c805c762c1078ceafe5135d860b7ae40e6be        735 main/binary-all/Packages.gz
+ 460bef805b307d40c3de028b017d915ca254d772       2165 main/binary-amd64/Packages
+ dc44c805c762c1078ceafe5135d860b7ae40e6be        735 main/binary-amd64/Packages.gz
 SHA256:
- f3ef86eef24331c14a4853fa28d6c0c57e70ce71ee3100855d9696d25afbe07a       2165 main/binary-all/Packages
- c7393a9c9f2c087d328d9a8b05f9ee29d644cf0dd7c6a03076d372d9c16eecfe        743 main/binary-all/Packages.gz
- f3ef86eef24331c14a4853fa28d6c0c57e70ce71ee3100855d9696d25afbe07a       2165 main/binary-amd64/Packages
- c7393a9c9f2c087d328d9a8b05f9ee29d644cf0dd7c6a03076d372d9c16eecfe        743 main/binary-amd64/Packages.gz
+ daebf9558e0b2e7ed879652effe982fb0d404ea3ed03f42fd3a61a54ea34dd0c       2165 main/binary-all/Packages
+ 6963149bedceedf4c2d61ab26c9ff38b4bf07cda557327d6cf09ae6b6863cb09        735 main/binary-all/Packages.gz
+ daebf9558e0b2e7ed879652effe982fb0d404ea3ed03f42fd3a61a54ea34dd0c       2165 main/binary-amd64/Packages
+ 6963149bedceedf4c2d61ab26c9ff38b4bf07cda557327d6cf09ae6b6863cb09        735 main/binary-amd64/Packages.gz
