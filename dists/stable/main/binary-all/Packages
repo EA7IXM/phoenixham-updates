@@ -1,21 +1,4 @@
 Package: phoenixham-desktop
-Version: 1.0.202611101430
-Architecture: all
-Maintainer: PhoenixHam OS <phoenixham-updates@users.noreply.github.com>
-Installed-Size: 1164
-Depends: python3, python3-pyqt5, network-manager, pulseaudio-utils, kdialog
-Section: misc
-Priority: optional
-Description: Herramientas de PhoenixHam OS
- Bloc de notas, red, sonido, volumen, Este equipo, Escritorio remoto, programas de
- Windows, controladores automáticos y demás utilidades propias de PhoenixHam OS.
-Filename: pool/main/phoenixham-desktop_1.0.202611101430_all.deb
-Size: 174638
-MD5sum: 54ccc19c7b89bc936694f12cd87dc2ba
-SHA1: 7f972ec17bd5869dd80532c7e3611cd25983125d
-SHA256: 1adec1448aa885fcc4004bab0f27cb60fd50ec72c27ce952d5fc4eed42001b5a
-
-Package: phoenixham-desktop
 Version: 1.0.202611101434
 Architecture: all
 Maintainer: PhoenixHam OS <phoenixham-updates@users.noreply.github.com>
@@ -48,3 +31,20 @@ Size: 441366
 MD5sum: c531d3f38dcdaffb679aa5d293c478df
 SHA1: 67b935541d5d348946617e1e5c0dec46d4462abb
 SHA256: b15faec94c6ef0889be7e3480c8e57e05ab33e77e6d60af39acc9cba3415b5b8
+
+Package: phoenixham-desktop
+Version: 1.0.202611101613
+Architecture: all
+Maintainer: PhoenixHam OS <phoenixham-updates@users.noreply.github.com>
+Installed-Size: 1737
+Depends: python3, python3-pyqt5, network-manager, pulseaudio-utils, kdialog
+Section: misc
+Priority: optional
+Description: Herramientas de PhoenixHam OS
+ Bloc de notas, red, sonido, volumen, Este equipo, Escritorio remoto, programas de
+ Windows, controladores automáticos y demás utilidades propias de PhoenixHam OS.
+Filename: pool/main/phoenixham-desktop_1.0.202611101613_all.deb
+Size: 442490
+MD5sum: c0909b6fe38cc53e0d3d78e0442588ff
+SHA1: 7dbec7a0f80aaa16238845ded314d05e1f5f7b39
+SHA256: 76521729192c5c53776f2aeddbb5be2a69cbea11a60cb3ee03eff81c48bfd86d
