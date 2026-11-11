@@ -1,21 +1,4 @@
 Package: phoenixham-desktop
-Version: 1.0.202611102044
-Architecture: all
-Maintainer: PhoenixHam OS <phoenixham-updates@users.noreply.github.com>
-Installed-Size: 1764
-Depends: python3, python3-pyqt5, network-manager, pulseaudio-utils, kdialog, phoenixham-ia
-Section: misc
-Priority: optional
-Description: Herramientas de PhoenixHam OS
- Bloc de notas, red, sonido, volumen, Este equipo, Escritorio remoto, programas de
- Windows, controladores automáticos y demás utilidades propias de PhoenixHam OS.
-Filename: pool/main/phoenixham-desktop_1.0.202611102044_all.deb
-Size: 448372
-MD5sum: 72d989acdac73ab76ffe21ae67f0ab92
-SHA1: 4ea32b5dc36f9569555f1e382617205808795c76
-SHA256: 229310d8bcc4a64eb19c0cf7bfe6a2b9dda3b01b522864ef8757f3807788ad11
-
-Package: phoenixham-desktop
 Version: 1.0.202611102200
 Architecture: all
 Maintainer: PhoenixHam OS <phoenixham-updates@users.noreply.github.com>
@@ -49,18 +32,35 @@ MD5sum: 3cacd21747a3b767ba5bfdc6467718b8
 SHA1: 7d2a266dde3e3e7874886a77b9af087b574026de
 SHA256: 292ddb1fce3624bf3732f39f17e58ef3979f0f14743f9faa2db99c17542d4372
 
+Package: phoenixham-desktop
+Version: 1.0.202611110806
+Architecture: all
+Maintainer: PhoenixHam OS <phoenixham-updates@users.noreply.github.com>
+Installed-Size: 1764
+Depends: python3, python3-pyqt5, network-manager, pulseaudio-utils, kdialog, phoenixham-ia
+Section: misc
+Priority: optional
+Description: Herramientas de PhoenixHam OS
+ Bloc de notas, red, sonido, volumen, Este equipo, Escritorio remoto, programas de
+ Windows, controladores automáticos y demás utilidades propias de PhoenixHam OS.
+Filename: pool/main/phoenixham-desktop_1.0.202611110806_all.deb
+Size: 448688
+MD5sum: 61f8a5c5bb0fe9e433e0fb9af41ddb73
+SHA1: 536cb80e224092021c1e7a412398d1c38c106f1b
+SHA256: de0c986a2e44bfbab9cb25cc4359b92d3151ad8581d62075b68de294a59b8b45
+
 Package: phoenixham-ia
-Version: 1.0.202611102158
+Version: 1.0.202611110803
 Architecture: amd64
 Maintainer: PhoenixHam OS <phoenixham-updates@users.noreply.github.com>
-Installed-Size: 283702
+Installed-Size: 283703
 Depends: curl, libnss3, libgbm1, libgtk-3-0t64 | libgtk-3-0, xdg-utils
 Section: utils
 Priority: optional
 Description: EA7IXM IA Hack - inteligencia artificial local para PhoenixHam OS
  Asistente de IA que funciona en el propio PC (con el motor Ollama), con modo agente y voz.
-Filename: pool/main/phoenixham-ia_1.0.202611102158_amd64.deb
-Size: 92476314
-MD5sum: 612b4491ccf483de5a9a0dc6333cf954
-SHA1: 1f6a6ac18752eb2c8ea1863025e7c2be415350d6
-SHA256: a3d7c4489d86ce72ec18205baca0ee6a4c11adebc6351c21a5f10400bff3834f
+Filename: pool/main/phoenixham-ia_1.0.202611110803_amd64.deb
+Size: 92495840
+MD5sum: bea658d00e7a002ff42f2badea329a36
+SHA1: d01fbb5fdc8467eee163396d667b57b75013f883
+SHA256: 64dc4a4e5a86abcca1bd0fa189d186eb439868d593b0384cde2f53d7e1a653a3
